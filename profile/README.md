@@ -1,14 +1,16 @@
-This is group for Prool MUD works
+This is organization for Prool MUD works
 
-Group started in 2025 year and work continue...
+Org started in 2025 year and work continue...
 
-Repo "mud" is Byliny MUD with Prools modifacations.
+Repo "mud" is Byliny MUD with Prools modifications.
 
-Branch "master" - main original branch
+  Branch "master" - main original branch
 
-Branch "prool" - Prools mods
+  Branch "prool" - Prools mods
 
-This MUD is working online in mud.virtustan.net:3000
+Repo "balderdash-mud" is Balderdash MUD
+
+Others my MUD works is in root of main github-acc
 
 Prool, http://prool.virtustan.net
 
