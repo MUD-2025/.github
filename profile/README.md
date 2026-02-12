@@ -4,9 +4,9 @@ Org started in 2025 year and work continue...
 
 Repo "mud" is Byliny MUD with Prools modifications.
 
-  Branch "master" - main original branch
+  - Branch "master" - main original branch
 
-  Branch "prool" - Prools mods
+  - Branch "prool" - Prools mods
 
 Repo "balderdash-mud" is Balderdash MUD
 
