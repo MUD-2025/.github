@@ -8,8 +8,6 @@ Repo "mud" is Byliny MUD with Prools modifications.
 
   - Branch "prool" - with Prools mods
 
-  - Branch prool-stable-spinoff - stable branch
-
 Repo "balderdash-mud" is Balderdash MUD
 
 Others my MUD works is in root of main github-acc
